@@ -1,0 +1,65 @@
+body .U1
+{
+    width: 550px;
+    height: 600px;
+    background-color: rgb(143, 143, 169);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    transform: translate(400px,50px);
+}
+
+
+body .U1 .adham
+{
+height: 105px;
+width: 105px;
+position: absolute;
+top: 15px;
+border-radius: 50%;
+}
+
+body .U1 .U2
+{
+font-size: 25px;
+position: absolute;
+top: 120px;
+}
+
+body .U1 .bornlocation
+{
+
+position: absolute;
+top:170px;
+
+color: bisque;
+}
+body .U1 .job
+{
+
+position: absolute;
+top:215px;
+
+color: rgb(60, 64, 123);
+opacity: 0.5;
+}
+
+.mywork
+{
+
+width: 300px;
+height: 50px;
+border-radius: 10px;
+position: absolute;
+top: 250px;
+background-color: rgb(183, 148, 106);
+border-color: rgb(52, 140, 52);
+border-width: 0.5px;
+border-bottom: 50px;
+text-align: center;
+color: black;
+text-decoration: none;
+position: absolute;
+text-transform: uppercase;
+
+}
